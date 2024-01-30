@@ -8,12 +8,12 @@ The Football Match Predictor is a Python-based application designed to predict t
 - Data preprocessing and cleaning.
 - Exploratory Data Analysis (EDA) to uncover insights.
 - Machine Learning model to predict match outcomes.
-- (Optional) Web interface for users to interact with the predictor.
+- Web interface for users to interact with the predictor.
 
 ## Technology Stack
 - Python
 - Libraries: Pandas, Scikit-learn, Matplotlib, Seaborn
-- (Optional) Flask for web application
+- Flask and React for web application
 
 ## Installation
 Instructions on setting up the project locally.
