@@ -1,7 +1,7 @@
 # Football Match Predictor
 
 ## Overview
-The Football Match Predictor is a Python-based application designed to predict the outcomes of football matches using machine learning techniques. This project involves data collection, preprocessing, exploratory data analysis, machine learning model development, and potentially front-end development for a web-based interface.
+The Football Match Predictor is a Python-based application designed to predict the outcomes of football matches using machine learning techniques. This project involves data collection, preprocessing, exploratory data analysis, machine learning model development, and front-end development for a web-based interface.
 
 ## Features
 - Data collection from football statistics APIs or datasets.
